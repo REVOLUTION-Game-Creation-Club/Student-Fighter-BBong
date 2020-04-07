@@ -6,3 +6,9 @@
 
 전국아마추어게임대상
 
+Enter Key:Attack
+
+Arrow Key:Move
+
+Shift Key:Jump
+
