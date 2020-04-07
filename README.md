@@ -6,6 +6,8 @@
 
 전국아마추어게임대상
 
+Execute File:뽕2002.exe
+
 Enter Key:Attack
 
 Arrow Key:Move
